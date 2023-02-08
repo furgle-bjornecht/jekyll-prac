@@ -6,3 +6,9 @@
 
 - name: marky1
   link: /marky1.html
+
+- name: blog
+  link: /blog.html
+
+- name: staffing
+  link: /staff.html
